@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Isuni Kaushalya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-IsuniKaushalya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isuni-kaushalya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IsuniKaushalya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isuni-kaushalya-70944537b)
 [![GitHub](https://img.shields.io/badge/GitHub-IsuniKaushalya-black?style=for-the-badge&logo=github)](https://github.com/IsuniKaushalya)
 [![Email](https://img.shields.io/badge/Email-kaushalyaisu1001@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kaushalyaisu1001@gmail.com)
 

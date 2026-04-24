@@ -7,10 +7,10 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a **3rd-year Computer Science & Technology student** at Uva Wellassa University.  
+I'm a **4th-year Computer Science & Technology student** at Uva Wellassa University.  
 I enjoy **designing, coding, and dancing**, and I love working on projects that combine **real-world problem solving with technology**.
 
-- 🔭 Currently working on: **Kumana WildTrails** & **Task Management Systems**  
+- 🔭 Currently working on: **Nego Taxi**  
 - 🌱 Learning: **Advanced React, Django, AI/ML, Computer Vision**  
 - 👯 Looking to collaborate on: **Web apps, AI/ML, and research projects**  
 - 💬 Ask me about: **Web Development, AI/ML, HCI, Project Management**  
